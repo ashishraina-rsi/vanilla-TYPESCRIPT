@@ -1,0 +1,16 @@
+{
+  "name": "basic-v1-vanilla-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
